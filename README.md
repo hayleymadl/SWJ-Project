@@ -37,7 +37,7 @@ Born in 1715 in Ireland, Sir William Johnson immigrated to the North American co
        label="Sir William Johnson"
        description="Scanned by the New York Public Library"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Wm._%28Sir_William%29_Johnson_%28NYPL_Hades-280214-1253500%29.jpg"
-       fit="contain">
+       fit="cover">
 
 This correspondence is largely kept in the collections of the New York State Library, but the most comprehensive print source of such documents is the 14-volume series *The Papers of Sir William Johnson*, published from 1921 to 1965. While Johnson’s correspondence has been vital to the study of Indigenous people in the 18th century, as well as other aspects of the colonial period such as empire in the New World, colonial expansion, and diplomacy, it has never been dedicatedly studied in and of itself. 
 <param ve-image
@@ -67,6 +67,9 @@ The first key step in this project was to compile a dataset of instances of viol
        url="https://hayleymadl.com/wp-content/uploads/2022/05/Dataset-1-2.png">
 
 This information was gathered, quite simply, by reading the documentation, beginning in January of 1763. Many common text-search functions fall flat when dealing with eighteenth century manuscripts, especially involving correspondence with those without formal education, as words are often misspelled in a colorful variety of fashions. Other conventions of eighteenth-century language also limit the usefulness of text-search tools, even when searching for basic terms such as “murder,” “attack,” or “kidnapping.” As such, reading and manually recording instances of violence as they appeared in the documentation was the chosen method for this project. As previously stated, the instances recorded involved physical violence. Where documentation is missing but the description hints at violence, instances are recorded according to best judgement of the description and knowledge of the period. Instances of “kidnapping,” especially situations where Indigenous nations are taking captives, are recorded due to their typically violent nature, though a specific violence may not be mentioned verbatim. As previously discussed, the locations of instances of violence are often recorded in inexact and vague terms. As such, the coordinates derived from the location descriptions are as exact as research and common sense can make them. In instances where a clear beginning and end point are given, the coordinate is set at the approximate middle distance between the two based on eighteenth-century pathways of travel. Similarly, where structures or places no longer exist, coordinates are taken based on period maps and research to approximate a location. In instances where a location is either so broad or simply not given, coordinates are not recorded. 
+<param ve-image
+       label="Select examples from the compiled dataset"
+       url="https://hayleymadl.com/wp-content/uploads/2022/05/Dataset-1-2.png">
 
 This was a very labor-intensive method of collecting data, though one not unwillingly done. As Johnson corresponded often with many of the same people, one could begin to pick up on individual writing styles and tones. One also became familiar with the ways in which violence was referenced in the written word. As such, it became easier to skim letters and other documents for instances to record, though some were more of a challenge than others. 
 
