@@ -1,19 +1,38 @@
-/ SWJ-Project
-Final essay for HIST 699 Mapping Violence created with Juncture
-
 <param ve-config 
        title="Writing to Johnson: Violence in Correspondence, 1763-1764"
        author="Hayley Madl"
-       banner="https://upload.wikimedia.org/wikipedia/commons/3/3d/Pontiac_conspiracy.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b0/Visit_of_Chief_Pontiac_and_the_Indians_to_Major_Henry_Gladwin.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param title="Sir William Johnson" eid="Q457369" aliases="Johnson"> 
+<param title="Schenectady" eid="Q331380"> 
+<param title="French and Indian War" eid="Q154697">
+<param title="Pontiac" eid="Q314960">
+<param title="Odawa" eid="Q536116">
+<param title="Ojibwe" eid="Q255872">
+<param title="Shawnee" eid="Q253436">
+<param title="Delaware" eid="Q82048">
+<param title="Fort Pitt" eid="Q209377">
+<param title="Conestoga Town" eid="Q5159536" aliases="Conestoga Indians">
+<param title="Philadelphia" eid="Q1345">
+<param title="Susquehanna" eid="Q27538">
+<param title="Detroit River" eid="Q318435">
+<param title="Thomas Gage" eid="Q581935" aliases="Gage">
+<param title="Creeks" eid="Q51705">
+<param title="Chocktaws" eid="Q324516">
+<param title="Albany" eid="Q24861">
+<param title="Gregory Evans Dowd" eid="Q109666193" aliases="Dowd">
+<param title="Illinois country" eid="Q2554770">
+<param title="General Jeffrey Amherst" eid="Q335063" aliases="Amherst">
+<param title="Johnson Hall" eid="Q3809760">
+<param title="New York City" eid="Q60">
+<param title="Niagara" eid="Q362553">
+<param title="Lords of Trade" eid="Q887543">
+<param title="Lancaster" eid="Q320514">
+<param title="Paxton Boys" eid="Q3373236">
 
 # Sample visual essay
 
