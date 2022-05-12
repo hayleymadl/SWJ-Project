@@ -28,7 +28,6 @@
 <param title="Illinois country" eid="Q2554770">
 <param title="General Jeffrey Amherst" eid="Q335063" aliases="Amherst">
 <param title="Johnson Hall" eid="Q3809760">
-<param title="New York City" eid="Q60">
 <param title="Niagara" eid="Q362553">
 <param title="Lords of Trade" eid="Q887543">
 <param title="Lancaster" eid="Q320514">
