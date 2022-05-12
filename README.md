@@ -4,9 +4,6 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/b/b0/Visit_of_Chief_Pontiac_and_the_Indians_to_Major_Henry_Gladwin.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param title="Sir William Johnson" eid="Q457369" aliases="Johnson"> 
 <param title="Schenectady" eid="Q331380"> 
 <param title="French and Indian War" eid="Q154697">
@@ -42,7 +39,12 @@ Born in 1715 in Ireland, Sir William Johnson immigrated to the North American co
        url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Wm._%28Sir_William%29_Johnson_%28NYPL_Hades-280214-1253500%29.jpg"
        fit="contain">
 
-This correspondence is largely kept in the collections of the New York State Library, but the most comprehensive print source of such documents is the 14-volume series *The Papers of Sir William Johnson*, published from 1921 to 1965. While Johnson’s correspondence has been vital to the study of Indigenous people in the 18th century, as well as other aspects of the colonial period such as empire in the New World, colonial expansion, and diplomacy, it has never been dedicatedly studied in and of itself. 
+This correspondence is largely kept in the collections of the New York State Library, but the most comprehensive print source of such documents is the 14-volume series *The Papers of Sir William Johnson*, published from 1921 to 1965. 
+<param ve-image
+       label="A 14-volume set of *The Papers of Sir William Johnson*"
+       url="https://pictures.abebooks.com/inventory/30589771581.jpg"
+       fit="contain">
+While Johnson’s correspondence has been vital to the study of Indigenous people in the 18th century, as well as other aspects of the colonial period such as empire in the New World, colonial expansion, and diplomacy, it has never been dedicatedly studied in and of itself. 
 
 The project *Writing to Johnson: Violence in Correspondence, 1763-1764* examines the extent of violence during Pontiac’s War, an Indigenous uprising from 1763 to 1765. Though the French and Indian War ended in the colonies by 1763, the period was not peaceful. Over the course of 1763 and 1764, many Indigenous nations unhappy with France and England after the war such as the Odawa, Ojibwe, Shawnee, and Delaware engaged in the conflict that has become known as Pontiac’s War or Pontiac’s Rebellion. This led to many individual or more intimate instances of violence across the colonies, rather than descriptions of formal warfare. As one of, if not the most unified instance of Indigenous resistance to European rule during the colonial period, Johnson and his Indian agents were key players during this time and discussed its many issues in their correspondence. 
 
