@@ -1,7 +1,7 @@
 <param ve-config 
        title="Writing to Johnson: Violence in Correspondence, 1763-1764"
        author="Hayley Madl"
-       banner="https://upload.wikimedia.org/wikipedia/commons/b/b0/Visit_of_Chief_Pontiac_and_the_Indians_to_Major_Henry_Gladwin.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/a9/Bouquet_captives.jpg" 
        layout="vertical">
 
 <param title="Sir William Johnson" eid="Q457369" aliases="Johnson"> 
