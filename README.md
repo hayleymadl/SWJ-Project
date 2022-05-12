@@ -39,6 +39,7 @@
 Born in 1715 in Ireland, Sir William Johnson immigrated to the North American colonies in 1738.[^ref1]  Settling in the Mohawk Valley approximately twenty-five miles west of Schenectady, New York, Johnson rapidly developed his skills and influence first as an Indian trader and later as a diplomat to the various Indigenous nations in the northeast. After the close of the French and Indian War in the colonies, Johnson was made Superintendent of Indian Affairs in the North. In this position, Johnson served as the key mediator between Euroamericans and Indigenous peoples, handling everything from trade and land disputes to holding treaty councils. Consequently, Johnson produced a vast amount of paperwork not only during his time as Superintendent, but even beforehand as a private citizen and a military leader during the war. 
 <param ve-image 
        label="Sir William Johnson"
+       description="Scanned by the New York Public Library"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Wm._%28Sir_William%29_Johnson_%28NYPL_Hades-280214-1253500%29.jpg"
        fit="contain">
 
